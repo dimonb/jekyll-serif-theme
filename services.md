@@ -7,6 +7,6 @@ intro_image_absolute: true
 intro_image_hide_on_mobile: true
 ---
 
-# Services that grow with your business
+# Transforming Tech Challenges into Opportunities
 
-Aliquam erat volutpat. Morbi nisl tortor, dignissim eget efficitur vel, auctor non felis. Fusce quis viverra mi. Aenean quis massa pretium, ullamcorper nisi eget, hendrerit odio.
+Our "CTO for an Hour" service is designed to provide comprehensive technology leadership and consultancy services tailored for startups. Our aim is to empower startups to overcome their tech-related challenges and unlock their full potential. Here are our key offerings:

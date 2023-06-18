@@ -1,8 +1,10 @@
 ---
-title: "Performance Issue Resolution"
+title: "Performance"
 date: 2018-11-18T12:33:46+10:00
 weight: 1
 ---
+
+# Demystifying Performance Issue Resolution for Startups
 
 Performance issues can be a formidable obstacle for any startup striving for success. They can manifest as slow page loads, latency in data retrieval, or overall system unresponsiveness. These issues result in poor user experience, leading to decreased customer satisfaction and potentially lost business. However, a methodical approach to performance issue resolution can effectively remove these roadblocks.
 
