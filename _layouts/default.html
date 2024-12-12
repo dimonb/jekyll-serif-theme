@@ -3,6 +3,7 @@
 
 <head>
   <meta charset="utf-8">
+  {% include plausible.html %}
   <title>{% if page.title %}{{page.title}}{% else %}{{ site.title | escape }}{% endif %}</title>
   <meta name="viewport" content="width=device-width, initial-scale=1" />
   <link rel="icon" type="image/png" href="{{ '/images/favicon-32x32.svg' | relative_url }}">
@@ -36,6 +37,5 @@
   {% include sub-footer.html %}
   <script type="text/javascript" src="{{ '/assets/js/scripts.js' | relative_url }}"></script>
   {% include google-analytics.html %}
-  {% include plausible.html %}
 </body>
 </html>
